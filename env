@@ -1,0 +1,17 @@
+# Claude Investment Advisor - Environment Variables
+# Copy this file to .env and fill in your actual API keys
+
+# Anthropic API Key (Required)
+# Get it from: https://console.anthropic.com/
+ANTHROPIC_API_KEY=your-anthropic-api-key-here
+
+# Serper API Key (Required)
+# Get it from: https://serper.dev/
+SERPER_API_KEY=your-serper-api-key-here
+
+# Claude Model (Optional - Default: claude-sonnet-4-20250514)
+# Options: claude-sonnet-4-20250514, claude-opus-4-20250514
+CLAUDE_MODEL_NAME=claude-sonnet-4-20250514
+
+# Note: Never commit the .env file to Git!
+# Add .env to your .gitignore file
