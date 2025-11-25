@@ -1,0 +1,9 @@
+streamlit==1.29.0
+crewai==0.28.8
+crewai-tools==0.1.6
+langchain-community==0.0.29
+langchain-anthropic==0.1.1
+anthropic==0.18.0
+pandas==2.0.3
+plotly==5.17.0
+python-dotenv==1.0.0
